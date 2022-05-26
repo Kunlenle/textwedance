@@ -1,0 +1,174 @@
+---
+hero:
+  title: Aimez-vous danser?
+  subtitle: Nous nous aidons mutuellement à trouver des événements de danse intéressants et des partenaires de danse.
+auth:
+  signin: Se connecter
+  signup: S'inscrire
+  signout: Se déconnecter
+events:
+  add: Ajouter
+  title: Événements
+  list:
+    empty: No events found. Would you like to add one?
+  view:
+    list: See Photos
+    covers: See list
+  filter:
+    type: Type
+    style: Style
+posts:
+  add: Ajouter
+  title: Commentaire
+profiles:
+  add: Ajouter
+  title: Communauté
+myprofile:
+  events:
+    add: Ajouter un évènement
+  posts:
+    add: Rédiger un post
+  title: Mon profil
+chat:
+  title: Conversation
+  welcome: Commencez la conversation avec quelque chose de gentil.
+  with: Discutez avec {username}
+  dateDiff: 'il y a {diff}'
+cities:
+  choose: Choisissez une ville
+settings:
+  title: Paramètres
+  account:
+    title: Compte
+    description: Ces informations seront utilisées pour les notifications et les achats. Il ne sera partagé avec les fournisseurs de services ou les vendeurs qu'avec votre accord.
+    changepassword: Changer le mot de passe
+    delete: Supprimer le compte
+  profile:
+    title: Profil
+    description: Que voulez-vous que les autres danseurs sachent sur vous? C'est un endroit pour partager votre passion pour la danse. Présentez-vous, ne soyez pas timide!
+  contacts:
+    title: Contacts
+    description: Ces informations seront accessibles au public. Partagez vos contacts uniquement si vous souhaitez être contacté par les membres. C'est aussi un endroit agréable pour partager vos médias sociaux pour attirer l'attention.
+city:
+  anywhere: Nulle part
+  change: Changer de ville
+role:
+  label: Rôle
+profile:
+  username: Nom d'utilisateur
+  community: Je danse dans
+  type: Type
+  name: Nom
+  bio: Taquin
+  hometown: Ville natale
+  birthday: Anniversaire
+  gender: Le sexe
+  styles: Vos styles de danse et votre niveau
+  style: Styles de danse
+  story: Description
+  languages: Vos langues
+  skills: Compétences non dansantes
+  days: Journées
+  topics: Quels sujets de danse vous intéressent?
+  teacher: Enseignez-vous?
+  partner: Cherchez-vous un partenaire de danse?
+  height: Votre taille (cm)
+  weight: Votre poids (kg)
+  partnerBio: À propos de votre partenaire
+  objectives: Objectifs
+  place: Où est ce que l'on se rencontre?
+  visibility: Visibilité
+  photo: Photo
+account:
+  email: Email
+  password: Mot de passe
+  name: Nom et prénom
+  phone: Téléphone
+  newsletter: Quel type de mise à jour souhaitez-vous recevoir chaque semaine?
+agreement: En vous connectant, vous acceptez les {terms} et la {privacy}.
+terms: Conditions d'utilisation
+privacy: Politique de confidentialité
+register:
+  login: S'identifier
+  submit: S'inscrire
+signin:
+  register: Créer un compte
+  nopassword: Mot de passe oublié
+  submit: S'identifier
+nopassword:
+  signin: J'ai un mot de passe
+  google: Connectez-vous avec Google
+  submit: Envoyez un lien magique
+contacts:
+  email: Email
+  website: Site Internet
+save: sauver
+teaser:
+  partner:
+    title: Besoin d'un partenaire?
+    description: Des danseurs du monde entier créent leur profil pour trouver des partenaires de danse
+    btn: Voir la communauté
+  events:
+    title: Où danser?
+    description: Tous les cours de danse, fêtes et festivals en un seul endroit
+    btn: Voir les événements
+  profile:
+    title: Publiez votre profil
+    description: pour que d'autres puissent vous contacter
+    btn: Rejoignez gratuitement
+  allevents:
+    title: Événements privés
+    description: Devenez membre de la communauté WeDance pour en savoir plus
+    btn: Adhérer maintenant
+  chat:
+    title: On bavarde?
+    description: 'Nous avons des discussions de danse dans chaque ville'
+    btn: Rejoignez le chat de {city}
+  involve:
+    title: Nous avons besoin de votre aide
+    description: Nous sommes une communauté de danse internationale à but non lucratif. Nous voulons que vous alliez dans n'importe quelle ville de n'importe quel pays et que vous trouviez des événements de danse et des danseurs. Tout commence avec la communauté locale.
+    btn: Être impliqué
+share:
+  title: Partager
+  copy: Copier le lien
+footer:
+  about: À propos de nous
+  support: Soutien
+  privacy: Intimité
+  terms: Termes
+  coc: Code de conduite
+  faq: FAQ
+feed:
+  title: Commentaire
+  newMessage:
+    input: Ask or share something about dance...
+    intent: post a message
+    submit: Send
+  category: Choose category
+  needPartner: Looking for partner
+  needEvents: Looking for events
+  needInstructor: Looking for instructor
+  trip: Offering trip
+  event: Event
+  artist: Artist
+  venue: Venue
+  app: App
+  guide: Guide / How To
+  inspiration: Inspiration
+  question: Question
+  poll: Poll
+  post: Post
+comments:
+  empty: There are no comments yet.
+edit:
+  label: Edit
+dashboard:
+  label: Dashboard
+sort:
+  popular: Populaire
+  newest: Plus récent
+  hot: Hot
+  watching: Watching
+  starred: Starred
+  archived: Archived
+  yours: Yours

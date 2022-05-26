@@ -1,0 +1,174 @@
+---
+hero:
+  title: Ti piace ballare?
+  subtitle: Ci aiutiamo a vicenda a trovare interessanti eventi di danza e partner di ballo.
+auth:
+  signin: Accedere
+  signup: Iscriverti
+  signout: Uscire
+events:
+  add: Aggiungi evento
+  title: Eventi
+  list:
+    empty: No events found. Would you like to add one?
+  view:
+    list: See Photos
+    covers: See list
+  filter:
+    type: Type
+    style: Stile
+posts:
+  add: Aggiungi post
+  title: Commento
+profiles:
+  add: Aggiungi profilo
+  title: Comunità
+myprofile:
+  events:
+    add: Aggiungi evento
+  posts:
+    add: Scrivi un post
+  title: Il mio profilo
+chat:
+  title: Conversazione
+  welcome: Inizia la conversazione con qualcosa di carino.
+  with: Chatta con {username}
+  dateDiff: '{diff} fa'
+cities:
+  choose: Scegli una città
+settings:
+  title: Impostazioni
+  account:
+    title: Account
+    description: Queste informazioni verranno utilizzate per notifiche e acquisti. Esse verrano condivise con fornitori di servizi o venditori solo con il tuo accordo.
+    changepassword: Cambia la password
+    delete: Elimina account
+  profile:
+    title: Profilo
+    description: Cosa vuoi che gli altri ballerini sappiano di te? È un posto dove condividere la tua passione per la danza. Presentati, non essere timido!
+  contacts:
+    title: Contatti
+    description: Queste informazioni saranno disponibili pubblicamente. Condividi i tuoi dati solo se vuoi essere contattato dai altri membri. È anche un bel posto per condividere i tuoi social media per attirare l'attenzione.
+city:
+  anywhere: Dovunque
+  change: Cambia città
+role:
+  label: Ruolo
+profile:
+  username: Nome utente
+  community: Io ballo in
+  type: Tipo
+  name: Nome
+  bio: Teaser
+  hometown: Città natale
+  birthday: Compleanno
+  gender: Sesso
+  styles: I tuoi stili di danza e livello
+  style: Stili di danza
+  story: Descrizione
+  languages: Le tue lingue
+  skills: Abilità non danzanti
+  days: Giorni
+  topics: Quali argomenti di danza ti interessano?
+  teacher: Stai insegnando?
+  partner: Cerchi un compagno di ballo?
+  height: Altezza (cm)
+  weight: Peso (kg)
+  partnerBio: Sul tuo partner
+  objectives: Obiettivi
+  place: Dove incontrarci?
+  visibility: Visibilità
+  photo: Foto
+account:
+  email: E-mail
+  password: Password
+  name: Nome completo
+  phone: Telefono
+  newsletter: Che tipo di aggiornamento vorresti ricevere settimanalmente?
+agreement: Eseguendo l'accesso, accetti i {terms} e la {privacy}.
+terms: Termini di servizio
+privacy: Politica sulla riservatezza
+register:
+  login: Login
+  submit: Registrati
+signin:
+  register: Creare un account
+  nopassword: Hai dimenticato la password
+  submit: Login
+nopassword:
+  signin: Ho una password
+  google: Accedi con Google
+  submit: Invia un collegamento magico
+contacts:
+  email: E-mail
+  website: Sito web
+save: Salva
+teaser:
+  partner:
+    title: Hai bisogno di un partner?
+    description: Ballerini in tutto il mondo creano i loro profili per trovare partner di ballo
+    btn: Vedi Community
+  events:
+    title: Dove ballare?
+    description: Tutti i corsi di ballo, feste e festival in un unico luogo
+    btn: Vedi eventi
+  profile:
+    title: Pubblica il tuo profilo
+    description: in modo che altri possano contattarti
+    btn: Entra gratuitamente
+  allevents:
+    title: Eventi privati
+    description: Diventa un membro della comunità WeDance per vedere di più
+    btn: Iscriviti adesso
+  chat:
+    title: Chiacchieriamo?
+    description: 'Abbiamo chat di ballo in ogni città'
+    btn: Entra nella chat di {city}
+  involve:
+    title: Abbiamo bisogno del tuo aiuto
+    description: Siamo una comunità di danza internazionale senza scopo di lucro. Vogliamo che tu trovi eventi di danza e ballerini in qualsiasi città di qualsiasi paese Tutto inizia con la comunità locale.
+    btn: Mettersi in gioco
+share:
+  title: Condividere
+  copy: Copia link
+footer:
+  about: Chi siamo
+  support: Supporto
+  privacy: Privacy
+  terms: Termini
+  coc: Codice di comportamento
+  faq: FAQ
+feed:
+  title: Commento
+  newMessage:
+    input: Ask or share something about dance...
+    intent: post a message
+    submit: Send
+  category: Choose category
+  needPartner: Looking for partner
+  needEvents: Looking for events
+  needInstructor: Looking for instructor
+  trip: Offering trip
+  event: Event
+  artist: Artist
+  venue: Venue
+  app: App
+  guide: Guide / How To
+  inspiration: Inspiration
+  question: Question
+  poll: Poll
+  post: Post
+comments:
+  empty: There are no comments yet.
+edit:
+  label: Edit
+dashboard:
+  label: Dashboard
+sort:
+  popular: Popolare
+  newest: Più recente
+  hot: Hot
+  watching: Watching
+  starred: Starred
+  archived: Archived
+  yours: Yours
